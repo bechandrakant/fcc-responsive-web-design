@@ -1,6 +1,9 @@
 body {
-  text-align: center;
   background-color: rgb(185, 186, 230);
+}
+
+#main {
+    text-align: center;
 }
 
 #title {
@@ -8,11 +11,13 @@ body {
 }
 
 #img-div {
-  padding: 20px;
+  text-align: center;
 }
+
 #image {
-  width: 100%;
-  border-radius: 20px;
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
 }
 
 #img-caption {
