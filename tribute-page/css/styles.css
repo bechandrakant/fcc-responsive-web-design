@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  background-color: rgb(185, 186, 230);
+}
+
+#title {
+  font-weight: 100;
+}
+
+#img-div {
+  padding: 20px;
+}
+#image {
+  width: 100%;
+  border-radius: 20px;
+}
+
+#img-caption {
+  font-style: italic;
+}
+
+h3 {
+  font-weight: 300;
+}
+
+#timeline {
+  text-align: left;
+  background-color: rgba(117, 82, 223, 0.4);
+  padding: 20px;
+  border-radius: 20px;
+}
+
+#tribute-link {
+  text-decoration: none;
+}
